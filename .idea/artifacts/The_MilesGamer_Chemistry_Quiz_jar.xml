@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="The MilesGamer Chemistry Quiz:jar">
+    <output-path>$USER_HOME$/OneDrive/Desktop</output-path>
+    <root id="archive" name="The MilesGamer Chemistry Quiz.jar">
+      <element id="module-output" name="The MilesGamer Chemistry Quiz" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
